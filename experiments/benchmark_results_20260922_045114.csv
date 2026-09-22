@@ -1,0 +1,7 @@
+SceneID,Method,Budget,ActivePrimitives,TotalPrimitives,PSNR_Global_dB,SSIM_Global,LPIPS_Global,FPS,Latency_ms,Human_PSNR_dB,Background_PSNR_dB,Face_PSNR_dB
+telepresence_host_01,uniform_baseline,0.15,3675,24500,22.31,0.9124,0.104,60.0,8.79,19.43,35.47,16.16
+telepresence_host_01,uniform_baseline,0.3,7350,24500,23.16,0.9318,0.0859,60.0,11.03,20.27,36.34,17.0
+telepresence_host_01,uniform_baseline,0.5,12250,24500,24.57,0.9538,0.0642,60.0,13.77,21.68,37.93,18.41
+telepresence_host_01,uniform_baseline,0.7,17150,24500,26.69,0.9733,0.0432,60.0,16.34,23.79,40.18,20.61
+telepresence_host_01,uniform_baseline,0.85,20825,24500,29.82,0.9876,0.0254,60.0,18.19,26.93,43.18,23.8
+telepresence_host_01,uniform_baseline,1.0,24500,24500,99.0,1.0,0.0,55.6,20.0,99.0,99.0,99.0
